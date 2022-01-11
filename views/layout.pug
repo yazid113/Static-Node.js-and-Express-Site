@@ -6,8 +6,8 @@ html(lang="en" dir="ltr")
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
-    link(rel='stylesheet', href='/static/css/normalize.css')
-    link(rel='stylesheet', href='/static/css/styles.css')
+    link(rel='stylesheet', href='css/normalize.css')
+    link(rel='stylesheet', href='css/styles.css')
 
   body
     #my-info.sidebar
@@ -18,13 +18,13 @@ html(lang="en" dir="ltr")
         .dev-intro-box
 
           //- Replace with your name
-          h5 Name
+          h5 Yazid Dau Camargo
 
           //- Replace with description of who you are, what you do, and why you are so awesome
           p Description
 
           //- Add path from your '/about' route handler to the href below
-          a(href='') Learn More &rarr;
+          a(href='/about') Learn More &rarr;
 
     .wrapper
       .header
@@ -32,8 +32,8 @@ html(lang="en" dir="ltr")
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
 
           //- Replace with your name — this is for the mobile layout
-          span Name
+          span Yazid Dau Camargo
 
       block content
 
-  script(src='/static/js/script.js')
+  script(src='js/script.js')

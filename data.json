@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "It is an app that generates a random quote each time the user click the button",
+      "tecnologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://yazid113.github.io/Techdegree_Project_Unit1/",
+      "github_link":"https://github.com/yazid113/Techdegree_Project_Unit1",
+      "images_url":["images/randomQuote1.PNG", "images/randomQuote2.PNG"]
+    },
+    {
+        "id": 1,
+        "project_name": "Data Pagination",
+        "description": "Create a web app that will display a number of people with there information and showing the data on each page the user select",
+        "tecnologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://yazid113.github.io/Techdegree_Project_Unit2/",
+        "github_link":"https://github.com/yazid113/Techdegree_Project_Unit2",
+        "images_url":["images/pagination1.PNG", "images/pagination2.PNG"]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Desing a interactive form for a javascript forum with accesability and validation",
+        "tecnologies": ["HTML", "CSS", "Javascript", "jquery"],
+        "live_link": "https://yazid113.github.io/Techdegree_Project_Unit3/",
+        "github_link":"https://github.com/yazid113/Techdegree_Project_Unit3",
+        "images_url":["images/javascriptForm1.PNG", "images/javascriptForm2.PNG"]
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "A game in which thhe player have to guess the phrase on display before lives run out",
+        "tecnologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://yazid113.github.io/Techdegree_Project_Unit4/",
+        "github_link":"https://github.com/yazid113/Techdegree_Project_Unit4",
+        "images_url":["images/phraseHunter1.PNG", "images/phraseHunter2.PNG"]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "When the page is load it  will do a fetch on a API and bring the infomration of 12 people. Clicking on each of the person window will display a modal with more information.",
+        "tecnologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://yazid113.github.io/Techdegree_Project_Unit5/",
+        "github_link":"https://github.com/yazid113/Techdegree_Project_Unit5",
+        "images_url":["images/fetchAPI1.PNG", "images/fetchAPI2.PNG"]
+      }
+  ]
+}
