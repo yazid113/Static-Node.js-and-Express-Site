@@ -1,0 +1,23 @@
+{
+  "name": "techdegree_project_unit6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazid113/Techdegree_Project_Unit6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yazid113/Techdegree_Project_Unit6/issues"
+  },
+  "homepage": "https://github.com/yazid113/Techdegree_Project_Unit6#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}
