@@ -7,7 +7,7 @@
       "tecnologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://yazid113.github.io/Techdegree_Project_Unit1/",
       "github_link":"https://github.com/yazid113/Techdegree_Project_Unit1",
-      "images_url":["images/randomQuote1.PNG", "images/randomQuote2.PNG"]
+      "images_url":["/static/images/resizeRandomQuote1.jpg", "/static/images/randomQuote2.PNG"]
     },
     {
         "id": 1,
@@ -16,7 +16,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit2/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit2",
-        "images_url":["images/pagination1.PNG", "images/pagination2.PNG"]
+        "images_url":["/static/images/resizePagination1.jpg", "/static/images/pagination2.PNG"]
       },
       {
         "id": 2,
@@ -25,7 +25,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript", "jquery"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit3/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit3",
-        "images_url":["images/javascriptForm1.PNG", "images/javascriptForm2.PNG"]
+        "images_url":["/static/images/resizeJavascriptForm1.jpg", "/static/images/javascriptForm2.PNG"]
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit4/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit4",
-        "images_url":["images/phraseHunter1.PNG", "images/phraseHunter2.PNG"]
+        "images_url":["/static/images/phraseHunter1.PNG", "/static/images/phraseHunter2.PNG"]
       },
       {
         "id": 4,
@@ -43,7 +43,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit5/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit5",
-        "images_url":["images/fetchAPI1.PNG", "images/fetchAPI2.PNG"]
+        "images_url":["/static/images/fetchAPI1.PNG", "/static/images/fetchAPI2.PNG"]
       }
   ]
 }

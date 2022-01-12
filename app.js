@@ -1,14 +1,12 @@
 const express = require('express');
 const { projects } = require('./data.json');
-const cookieParser = require('cookie-parser');
 const app = express();
 
 
 app.set('view engine', 'pug');
 
 
-app.use(express.static(`public`))
-app.use(cookieParser())
+app.use('/static',express.static(`public`))
 
 
 app.get('/', function (req, res) {
@@ -29,8 +27,10 @@ app.get('/about', function (req, res) {
     const project = projects.find( ({ id }) => id === parseInt(projectId) );
     
     if (project) {
+      
       res.render('project', { project });
     }
+    
   });
 
   
