@@ -35,5 +35,5 @@ app.get('/about', function (req, res) {
 
   
   app.listen(3000, ()=>{
-    console.log('The app is running oon localhost:3000')
+    console.log('The app is running on localhost:3000')
 });
