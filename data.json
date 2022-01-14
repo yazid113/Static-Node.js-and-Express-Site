@@ -7,7 +7,7 @@
       "tecnologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://yazid113.github.io/Techdegree_Project_Unit1/",
       "github_link":"https://github.com/yazid113/Techdegree_Project_Unit1",
-      "images_url":["/static/images/resizeRandomQuote1.jpg", "/static/images/randomQuote2.PNG", "/static/images/randomQuote3.PNG"]
+      "images_url":["/static/images/randomQuote1.PNG", "/static/images/randomQuote2.PNG", "/static/images/randomQuote3.PNG"]
     },
     {
         "id": 1,
@@ -16,7 +16,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit2/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit2",
-        "images_url":["/static/images/resizePagination1.jpg", "/static/images/pagination2.PNG", "/static/images/pagination3.PNG"]
+        "images_url":["/static/images/pagination1.PNG", "/static/images/pagination2.PNG", "/static/images/pagination3.PNG"]
       },
       {
         "id": 2,
@@ -25,7 +25,7 @@
         "tecnologies": ["HTML", "CSS", "Javascript", "jquery"],
         "live_link": "https://yazid113.github.io/Techdegree_Project_Unit3/",
         "github_link":"https://github.com/yazid113/Techdegree_Project_Unit3",
-        "images_url":["/static/images/resizeJavascriptForm1.jpg", "/static/images/javascriptForm2.PNG", "/static/images/javascriptForm4.PNG"]
+        "images_url":["/static/images/javascriptForm1.PNG", "/static/images/javascriptForm2.PNG", "/static/images/javascriptForm4.PNG"]
       },
       {
         "id": 3,

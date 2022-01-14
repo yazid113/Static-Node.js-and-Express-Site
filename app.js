@@ -1,7 +1,8 @@
 const express = require('express');
 const { projects } = require('./data.json');
 const app = express();
-const err = new Error();
+let err = new Error();
+
 
 app.set('view engine', 'pug');
 
@@ -32,6 +33,7 @@ app.get('/about', function (req, res) {
     }else{
       err.message = `Not found, it looks like the page you're looking for does not exist`;
       err.status = 404;
+      console.log(err)
       next(err);
     }
     
@@ -40,12 +42,14 @@ app.get('/about', function (req, res) {
   app.get('/error', (req, res, next) => {
     err.message = `Server error`
     err.status = 500;
+    console.log(err)
     next(err);
   });
 
   app.use((req, res, next) => {
     err.message = `Not found, it looks like the page you're looking for does not exist`;
     err.status = 404;
+    console.log(err)
     next(err);
   });
   
