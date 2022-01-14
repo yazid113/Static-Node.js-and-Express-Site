@@ -17,10 +17,6 @@ app.get('/', function (req, res) {
 app.get('/about', function (req, res) {
     res.render('about');
   });
-
-//   app.get('/project', function (req, res) {
-//     res.render('project');
-//   });
   
 
   app.get('/project/:id', function(req, res, next) {
