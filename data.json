@@ -5,8 +5,8 @@
       "project_name": "Random Quote Generator",
       "description": "It is an app that generates a random quote each time the user click the button",
       "tecnologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "https://yazid113.github.io/Techdegree_Project_Unit1/",
-      "github_link":"https://github.com/yazid113/Techdegree_Project_Unit1",
+      "live_link": "https://yazid113.github.io/Random-Quote-Generator/",
+      "github_link":"https://github.com/yazid113/Random-Quote-Generator",
       "images_url":["/static/images/randomQuote1.PNG", "/static/images/randomQuote2.PNG", "/static/images/randomQuote3.PNG"]
     },
     {
@@ -32,8 +32,8 @@
         "project_name": "OOP Game Show App",
         "description": "A game in which thhe player have to guess the phrase on display before lives run out",
         "tecnologies": ["HTML", "CSS", "Javascript"],
-        "live_link": "https://yazid113.github.io/Techdegree_Project_Unit4/",
-        "github_link":"https://github.com/yazid113/Techdegree_Project_Unit4",
+        "live_link": "https://yazid113.github.io/OOP-Game-Show-App/",
+        "github_link":"https://github.com/yazid113/OOP-Game-Show-App",
         "images_url":["/static/images/phraseHunter1.PNG", "/static/images/phraseHunter2.PNG", "/static/images/phraseHunter3.PNG"]
       },
       {
